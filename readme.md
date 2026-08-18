@@ -22,13 +22,13 @@ A aplicação conta com os modos manual e automático:
 - O modo automático, ao meu ver, se faz mais útil para estudo, visto que o CNPJ e nome dos fornecedores são fictícios e não possuem ligação com a realidade ✅;
 
 ## Pré-Requisitos 🔗
-- [Apenas Python](https://www.python.org/downloads/), todos as bibliotecas são nativas
+- [Apenas Python](https://www.python.org/downloads/), todas as bibliotecas são nativas
 
 ## Como Rodar a Aplicação ❔
 ▶️ Clonar o projeto no terminal
 
 <code>
-git clone git clone https://github.com/LockDzn/rpg-character-sheet
+git clone git clone https://github.com/mfelipesilva/notas_fiscais_com_sql
 </code> 
 <br>
 <br>
