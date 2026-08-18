@@ -28,7 +28,7 @@ A aplicação conta com os modos manual e automático:
 ▶️ Clonar o projeto no terminal
 
 <code>
-git clone git clone https://github.com/LockDzn/rpg-character-sheet
+git clone git clone https://github.com/mfelipesilva/notas_fiscais_com_sql
 </code> 
 <br>
 <br>
